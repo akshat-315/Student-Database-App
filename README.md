@@ -13,3 +13,8 @@ Computer Science 101
 5. Each course costs 600 Rupees to enroll
 6. The student should be able to view their balance and pay the tuition
 7. To see the status of the student, we should see their name, ID, courses enrolled, and balance
+
+
+![1](https://github.com/akshat-315/Student-Database-App/assets/130206602/0579dcf2-6be4-4302-983d-85586da2ebf4)
+
+![2](https://github.com/akshat-315/Student-Database-App/assets/130206602/6dba5e58-d966-4de3-94d3-6b7bf1fefd33)
